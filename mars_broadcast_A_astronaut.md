@@ -59,11 +59,12 @@ This is the **Mars side** of the broadcast. In frame: the proud astronaut, facin
 # ACT 2 — THE CAPTURE (Clips 13–28)
 
 ## Clip 13 — The intruder appears
-**Action:** The astronaut keeps talking directly into the lens, looking straight ahead at the camera with absolute focus, completely oblivious to his surroundings. In the deep background, at a far distance of about 20 feet behind him, a thin grey alien with large dark eyes appears from the left edge — head, then shoulder, then full body. Crouched and cautious, the alien begins tiptoeing in, crossing the background space directly behind the main astronaut. Far back on the right, the second astronaut (Dave) remains perfectly visible, free, and working at his crates. Both the alien and Dave remain simultaneously visible as separate characters in the deep background. The main astronaut maintains eye contact with the camera at all times.
+## Clip 13 — The intruder appears
+**Action:** [FOREGROUND - IN SHARP FOCUS]: The main astronaut remains continuously centered from the waist up, talking directly into the lens and looking straight ahead at the camera with absolute focus, completely oblivious to his surroundings. [DEEP BACKGROUND - OUT OF FOCUS]: At a far distance of about 20 feet behind him, a thin grey alien with large dark eyes appears from the left edge — head, then shoulder, then full body. Crouched and cautious, the alien begins tiptoeing in, slowly crossing the background space directly behind the main foreground astronaut. Far back on the right, the second astronaut ("Dave") remains perfectly visible, free, and actively working at his crates. [AI CONSTRAINT]: The main astronaut stays continuously visible and speaking in the foreground without interruption, maintaining eye contact with the camera at all times. Both the alien and Dave remain simultaneously rendered as separate, independent characters in the background. No characters disappear or morph.
 **Dialogue:**
 - "We'll need a name for the species, of course."
 - *(beat — misreads the worried tone as awe)*
-- "Who is behind me on this? Oh, the whole TEAM is behind me — one hundred percent."
+- "If you're wondering who stands behind me on this project... Oh, the whole TEAM is behind me — one hundred percent."
 
 ## Clip 15 — The sneak
 **Action:** The astronaut monologues with high energy, staring directly into the camera lens without breaking eye contact. In the deep background, 20 feet behind him, the alien creeps slowly across the frame, bumps a crate, freezes, glances around nervously, and then continues walking slowly and deliberately directly toward Dave(secon astronaut in the backgroud). The main astronaut remains completely anchored facing the front.
