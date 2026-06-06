@@ -3,7 +3,6 @@
 
 This is the **Mars side** of the broadcast. In frame: the proud astronaut, facing the camera the whole time, with the abduction unfolding in the background behind him. **This file contains ONLY the astronaut's voice and actions** (plus the background action that is physically inside his shot). Mission Control's voice and reactions live in **VIDEO B** and get cut in during editing.
 
-
 ## STYLE BLOCK *(paste at the top of every VIDEO A clip)*
 
 > One continuous-looking shot, completely fixed framing, shot from the point of view of a live video transmission from Mars. No cuts and no camera moves. Live-stream look: faint digital noise and light video compression. Setting: exterior Martian surface — rusty red desert, distant mountains, hazy orange sky; on the right, a habitat module and scattered supply crates; wide open background. MAIN ASTRONAUT: white spacesuit, no helmet, dark hair, short beard; centered from the waist up; his face stays locked toward the camera, making eye contact and addressing the viewpoint directly the entire time — he is completely absorbed in his broadcast and never turns around or looks back. SECOND ASTRONAUT ("Dave"): white spacesuit, in the far background on the right.
@@ -12,7 +11,7 @@ This is the **Mars side** of the broadcast. In frame: the proud astronaut, facin
 
 ---
 
-# ACT 1 — THE BROADCAST (Clips 1–6)
+# ACT 1 — THE BROADCAST (Clips 1–12)
 
 ## Clip 1 — Connection
 **Action:** The shot opens completely out of focus and shaky. A large human hand reaches in from directly in front of the viewpoint and presses so close it fills the entire frame and blocks the view — nothing but blurry skin and fingers in extreme close-up. The image jolts, tilts and wobbles, as if the point of view is being grabbed and adjusted to fix the focus. By the end the blur begins to resolve.
@@ -35,11 +34,11 @@ This is the **Mars side** of the broadcast. In frame: the proud astronaut, facin
 - *(beat — lets it land)*
 
 ## Clip 7 — The build-up
-**Action:** The astronaut reaches slowly toward something just off the bottom of the frame, milking the suspense, eyes wide.
+**Action:** The astronaut reaches slowly toward something just off the bottom of the frame, milking the suspense, eyes wide, manteniendo un silencio dramático.
 **Dialogue:**
 - "We came here looking for water. For minerals."
 - "We found something so much bigger."
-- *(beat — savors the suspense)*
+- *(beat — savors the suspense en silencio)*
 
 ## Clip 9 — The reveal
 **Action:** He lifts a small clear Petri dish holding a dark, grainy sample toward the camera; the focus briefly racks onto the sample, then snaps back to his face. He glows with pride.
@@ -57,7 +56,7 @@ This is the **Mars side** of the broadcast. In frame: the proud astronaut, facin
 
 ---
 
-# ACT 2 — THE CAPTURE (Clips 7–14)
+# ACT 2 — THE CAPTURE (Clips 13–28)
 
 ## Clip 13 — The intruder appears
 **Action:** The astronaut keeps talking to the camera, oblivious. In the far background, from the left edge, a thin grey alien with large dark eyes appears — head, then shoulder, then full body — crouched and cautious, clearly holding a coiled rope in one hand and a black cloth bag in the other. It begins tiptoeing in.
@@ -117,7 +116,7 @@ This is the **Mars side** of the broadcast. In frame: the proud astronaut, facin
 
 ---
 
-# ACT 3 — THE ABDUCTION & PUNCHLINE (Clips 15–20)
+# ACT 3 — THE ABDUCTION & PUNCHLINE (Clips 29–40)
 
 ## Clip 29 — The saucer
 **Action:** In the open sky behind him, a classic dark metallic flying saucer with glowing rim lights descends and hovers. The astronaut stays locked on the camera, oblivious.
