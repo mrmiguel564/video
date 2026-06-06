@@ -66,7 +66,7 @@ This is the **Mars side** of the broadcast. In frame: the proud astronaut, facin
 - "Who is behind me on this? Oh, the whole TEAM is behind me — one hundred percent."
 
 ## Clip 15 — The sneak
-**Action:** The alien creeps across the background, bumps a crate, freezes, glances around nervously, then continues toward Dave. The astronaut monologues at the camera.
+**Action:** The astronaut monologues with high energy, staring directly into the camera lens without breaking eye contact. In the deep background, 20 feet behind him, the alien creeps slowly across the frame, bumps a crate, freezes, glances around nervously, and then continues walking slowly and deliberately directly toward Dave(secon astronaut in the backgroud). The main astronaut remains completely anchored facing the front.
 **Dialogue:**
 - "I've already drafted my Nobel speech. Want to hear the opening?"
 - *(beat)*
