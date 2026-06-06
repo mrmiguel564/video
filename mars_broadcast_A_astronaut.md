@@ -63,14 +63,14 @@ This is the **Mars side** of the broadcast. In frame: the proud astronaut, facin
 **Dialogue:**
 - "We'll need a name for the species, of course."
 - *(beat — misreads the worried tone as awe)*
-- "Behind this? Oh, the whole TEAM is behind this — one hundred percent."
+- "Who is behind me on this? Oh, the whole TEAM is behind me — one hundred percent."
 
 ## Clip 15 — The sneak
 **Action:** The alien creeps across the background, bumps a crate, freezes, glances around nervously, then continues toward Dave. The astronaut monologues at the camera.
 **Dialogue:**
 - "I've already drafted my Nobel speech. Want to hear the opening?"
 - *(beat)*
-- "Seven figures? Easy, once the funding comes in."
+- "We are talking six or seven figures here. Easy, once the funding comes in."
 
 ## Clip 17 — Closing in
 **Action:** The alien sneaks right up close behind Dave, who keeps working, completely unaware.
@@ -151,7 +151,7 @@ This is the **Mars side** of the broadcast. In frame: the proud astronaut, facin
 **Dialogue:**
 - "Anyway — that's the discovery. Questions?"
 - "...Houston?"
-- "Houston, you're being awfully quiet."
+- "Houston, you're being awfully quiet. Stunned into silence, I imagine. I don't blame you."
 
 ## Clip 39 — The punchline
 **Action:** The astronaut slowly registers the silence and the empty space around him; his grin fades, his brow furrows, he leans in slightly, confused — but still never fully turns. The image freezes on his puzzled face.
