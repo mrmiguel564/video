@@ -5,7 +5,6 @@ This is the **Houston side** of the broadcast: a single flight controller at his
 
 His arc is the whole engine of the comedy: he starts calm and professional, slowly realizes something is wrong on the feed, and escalates to full panic — while the astronaut (VIDEO A) cheerfully mishears every warning as praise. By the end Houston is stunned into silence.
 
-
 ## STYLE BLOCK *(paste at the top of every VIDEO B clip)*
 
 > One continuous-looking shot, completely fixed framing, locked-off portrait of a single flight controller at a mission-control console. No cuts and no camera moves. Same broadcast era and grain as the Mars feed: faint digital noise and light video compression. Setting: dim Houston mission-control booth; the controller sits centered from the chest up, lit mainly by the cool flicker of a console monitor just below the frame (the Mars feed), faint glow of other instruments around him. CONTROLLER: 40s, headset with boom mic, mission polo or flight jacket, clipboard or hand on the console; he looks down-and-forward at his monitor, occasionally up toward the viewpoint as he speaks into the mic. His expression is the story — it travels from calm professionalism to disbelief to outright panic to hollow silence.
@@ -14,7 +13,7 @@ His arc is the whole engine of the comedy: he starts calm and professional, slow
 
 ---
 
-# ACT 1 — THE BROADCAST (Clips 1–6)
+# ACT 1 — THE BROADCAST (Clips 2–12)
 
 ## Clip 2 — Connection
 **Action:** The controller leans into his headset and works a dial, calm and routine; the monitor glow on his face stutters and flickers as a shaky signal tries to lock. He waits, mildly expectant, watching the feed resolve.
@@ -35,9 +34,10 @@ His arc is the whole engine of the comedy: he starts calm and professional, slow
 - "...Go on."
 
 ## Clip 8 — The build-up
-**Action:** He leans forward a little, genuinely curious now, eyes on the monitor.
+**Action:** Reacts to the Astronaut's tense silence. He leans forward a little, genuinely curious and slightly impatient, eyes fixed on the monitor.
+Dialogue:
 **Dialogue:**
-- *(listens, leaning in)*
+- *(listens to the silence, leaning in)*
 - "Commander, don't keep us waiting."
 
 ## Clip 10 — The reveal
@@ -54,7 +54,7 @@ His arc is the whole engine of the comedy: he starts calm and professional, slow
 
 ---
 
-# ACT 2 — THE CAPTURE (Clips 7–14)
+# ACT 2 — THE CAPTURE (Clips 14–28)
 
 ## Clip 14 — The intruder appears
 **Action:** Mid-smile, his eyes catch movement at the edge of the feed. The grin falters; he squints at the monitor and tilts his head.
@@ -63,10 +63,10 @@ His arc is the whole engine of the comedy: he starts calm and professional, slow
 - "Commander... is something moving behind you?"
 
 ## Clip 16 — The sneak
-**Action:** He leans in close to the monitor, one hand rising halfway, trying to make out the grey shape creeping across the feed. Uneasy.
+**Action:** Reacts immediately to the "Seven figures" comment from the previous clip. He leans in very close to the monitor, one hand half-raised, trying to make out the grey shape. Uneasy.
 **Dialogue:**
-- *(listens, distracted, staring past)*
-- "No— there's a figure, there's a—"
+- *(reversing the word)*
+- "No— there's a *figure*, there's a—"
 
 ## Clip 18 — Closing in
 **Action:** He half-rises out of his chair, gripping the edge of the console, urgent now, pointing at the screen.
@@ -107,7 +107,7 @@ His arc is the whole engine of the comedy: he starts calm and professional, slow
 
 ---
 
-# ACT 3 — THE ABDUCTION & PUNCHLINE (Clips 15–20)
+# ACT 3 — THE ABDUCTION & PUNCHLINE (Clips 30–40)
 
 ## Clip 30 — The saucer
 **Action:** He shoots to his feet, knocking the chair back, and points both hands at the monitor, shouting at the top of his lungs.
@@ -129,9 +129,9 @@ His arc is the whole engine of the comedy: he starts calm and professional, slow
 - "We're losing him — we're losing Dave!"
 
 ## Clip 36 — Liftoff
-**Action:** The monitor glow flares to static and washes his face white; the headset slips off one ear. He goes completely still, mouth half-open, no words.
+**Action:** The monitor glow intensifies violently from the alien ship's engines, washing over his face, but the signal holds. He slips the headset off one ear, going completely still, mouth half-open as he processes the shock.
 **Dialogue:**
-- *(static, then silence)*
+- *(stunned silence)*
 
 ## Clip 38 — Empty background
 **Action:** He stares blankly at the monitor — just the lone astronaut still beaming on an empty feed. He does not answer. Hollow, defeated silence; the glow pulses on his stunned face.
