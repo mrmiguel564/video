@@ -3,16 +3,6 @@
 
 This is the **Mars side** of the broadcast. In frame: the proud astronaut, facing the camera the whole time, with the abduction unfolding in the background behind him. **This file contains ONLY the astronaut's voice and actions** (plus the background action that is physically inside his shot). Mission Control's voice and reactions live in **VIDEO B** and get cut in during editing.
 
----
-
-## HOW THE TWO VIDEOS FIT TOGETHER
-
-- Generate **VIDEO A** and **VIDEO B** separately, each as its own continuous keyframe-chained sequence (take the last held frame of each clip as the start frame of the next, so the look stays consistent).
-- **Correlation rule:** *Clip N here = Clip N in VIDEO B.* They are designed to be intercut clip-by-clip in the edit. The conversation reads top-to-bottom across both files in lockstep.
-- The `*(beat)*` / `*(listens)*` marks are **cut points** — that is where Houston's line drops in on the other track. Hold a still, neutral expression on those beats so the editor has a clean frame to cut away to and back from.
-- **Protect the running gag:** the astronaut mishears every panicked warning as praise ("turn around" → "turning point", "grabbing him" → "grabbing the moment", "abducted" → "conducted"). Delivery stays proud and oblivious until the very end, then deflates.
-
----
 
 ## STYLE BLOCK *(paste at the top of every VIDEO A clip)*
 
@@ -29,7 +19,7 @@ This is the **Mars side** of the broadcast. In frame: the proud astronaut, facin
 **Dialogue:**
 - "Hello? ...Hello? Can you hear me?"
 
-## Clip 2 — In focus
+## Clip 3 — In focus
 **Action:** The hand pulls away and the blur snaps from soft to sharp, as if an autofocus locks in. The astronaut is centered, beaming at the camera. Far back on the right, Dave stands free and untied, no rope on him, bent over the supply crates and working.
 **Dialogue:**
 - *(listens, then —)*
@@ -37,28 +27,28 @@ This is the **Mars side** of the broadcast. In frame: the proud astronaut, facin
 - *(beat — waits graciously)*
 - "Good — because you are going to want to see this."
 
-## Clip 3 — Mission intro
+## Clip 5 — Mission intro
 **Action:** The astronaut gestures grandly around himself, still facing the camera, puffed up with importance.
 **Dialogue:**
 - "This is Sol one-forty-two of the Ares Expedition."
 - "And today... today the human race changes forever."
 - *(beat — lets it land)*
 
-## Clip 4 — The build-up
+## Clip 7 — The build-up
 **Action:** The astronaut reaches slowly toward something just off the bottom of the frame, milking the suspense, eyes wide.
 **Dialogue:**
 - "We came here looking for water. For minerals."
 - "We found something so much bigger."
 - *(beat — savors the suspense)*
 
-## Clip 5 — The reveal
+## Clip 9 — The reveal
 **Action:** He lifts a small clear Petri dish holding a dark, grainy sample toward the camera; the focus briefly racks onto the sample, then snaps back to his face. He glows with pride.
 **Dialogue:**
 - "Life. We found life."
 - *(beat)*
 - "Living organisms — right here, on Mars!"
 
-## Clip 6 — The gushing
+## Clip 11 — The gushing
 **Action:** The astronaut beams and gestures with the dish, basking in the moment. Dave is still working in the background, oblivious.
 **Dialogue:**
 - *(listens, nodding modestly)*
@@ -69,56 +59,56 @@ This is the **Mars side** of the broadcast. In frame: the proud astronaut, facin
 
 # ACT 2 — THE CAPTURE (Clips 7–14)
 
-## Clip 7 — The intruder appears
+## Clip 13 — The intruder appears
 **Action:** The astronaut keeps talking to the camera, oblivious. In the far background, from the left edge, a thin grey alien with large dark eyes appears — head, then shoulder, then full body — crouched and cautious, clearly holding a coiled rope in one hand and a black cloth bag in the other. It begins tiptoeing in.
 **Dialogue:**
 - "We'll need a name for the species, of course."
 - *(beat — misreads the worried tone as awe)*
 - "Behind this? Oh, the whole TEAM is behind this — one hundred percent."
 
-## Clip 8 — The sneak
+## Clip 15 — The sneak
 **Action:** The alien creeps across the background, bumps a crate, freezes, glances around nervously, then continues toward Dave. The astronaut monologues at the camera.
 **Dialogue:**
 - "I've already drafted my Nobel speech. Want to hear the opening?"
 - *(beat)*
 - "Seven figures? Easy, once the funding comes in."
 
-## Clip 9 — Closing in
+## Clip 17 — Closing in
 **Action:** The alien sneaks right up close behind Dave, who keeps working, completely unaware.
 **Dialogue:**
 - *(listens, beaming)*
 - "A feature! Yes — the key feature of the whole expedition!"
 - "You really get it."
 
-## Clip 10 — The wind-up
+## Clip 19 — The wind-up
 **Action:** The alien stands directly behind Dave, uncoils the rope and raises it, ready to throw. The astronaut holds the dish up proudly at the camera, at peak ego.
 **Dialogue:**
 - "History will remember two names. Mine... and also mine."
 - *(beat)*
 - "Hope? There's nothing but hope now, my friend."
 
-## Clip 11 — The lasso
+## Clip 21 — The lasso
 **Action:** The alien swings the rope like a cowboy lasso and throws it, looping it over Dave by surprise. Dave startles and a silent struggle begins in the background.
 **Dialogue:**
 - *(listens, delighted)*
 - "Grabbing the moment! Yes — seize it!"
 - "That's the spirit, Houston!"
 
-## Clip 12 — Tied up
+## Clip 23 — Tied up
 **Action:** The alien winds the rope around Dave's torso several times, pinning both his arms tightly to his sides so he is clearly being tied up, not hugged. Dave hops and wriggles, waving his trapped arms toward the camera for help; a crate tips over. The astronaut, never turning, keeps beaming.
 **Dialogue:**
 - *(listens warmly)*
 - "Tongue-tied, I know — it's an emotional day for everyone."
 - "Look how excited Dave is."
 
-## Clip 13 — The black bag
+## Clip 25 — The black bag
 **Action:** The alien pulls the black cloth bag down over Dave's head, fully covering it. Dave is now completely captured. The astronaut nods proudly at the camera.
 **Dialogue:**
 - *(listens)*
 - "He's in the bag, exactly — the deal's as good as done!"
 - *(beat — nods, certain he's been understood)*
 
-## Clip 14 — The grip
+## Clip 27 — The grip
 **Action:** The alien holds the bound, hooded Dave firmly in place; Dave's muffled struggling continues. The astronaut keeps presenting to the camera.
 **Dialogue:**
 - "I think I'll name the species after myself. Seems fair."
@@ -129,42 +119,42 @@ This is the **Mars side** of the broadcast. In frame: the proud astronaut, facin
 
 # ACT 3 — THE ABDUCTION & PUNCHLINE (Clips 15–20)
 
-## Clip 15 — The saucer
+## Clip 29 — The saucer
 **Action:** In the open sky behind him, a classic dark metallic flying saucer with glowing rim lights descends and hovers. The astronaut stays locked on the camera, oblivious.
 **Dialogue:**
 - *(listens, inspired)*
 - "A turning point! Exactly — for all of humanity!"
 - *(beat)*
 
-## Clip 16 — The beam
+## Clip 31 — The beam
 **Action:** A wide cone of bright glowing blue light — a tractor beam — shines straight down from the saucer onto both the alien and the hooded Dave. The two begin to lift off the ground together.
 **Dialogue:**
 - "And to think they doubted me back at the academy."
 - *(beat)*
 - "Spirits are lifted, yes — mine too!"
 
-## Clip 17 — Floating up
+## Clip 33 — Floating up
 **Action:** The alien and the bound Dave float slowly upward inside the blue beam, rising toward the saucer. The astronaut keeps gushing at the camera.
 **Dialogue:**
 - "This is the proudest moment of my entire career."
 - *(beat)*
 - "We'll all win, Houston. We'll ALL win."
 
-## Clip 18 — Liftoff
+## Clip 35 — Liftoff
 **Action:** The two rise into the saucer's underside; the beam switches off; the saucer shoots straight up and away, shrinking toward a dot.
 **Dialogue:**
 - *(beat — no reply comes; he doesn't notice)*
 - "...And in conclusion—"
 - "—I'd like to thank the little people. Metaphorically, of course."
 
-## Clip 19 — Empty background
+## Clip 37 — Empty background
 **Action:** The saucer vanishes completely. The background is now totally empty — no Dave, no alien, no ship, only the crates and the habitat module. The astronaut keeps beaming at the camera, still oblivious.
 **Dialogue:**
 - "Anyway — that's the discovery. Questions?"
 - "...Houston?"
 - "Houston, you're being awfully quiet."
 
-## Clip 20 — The punchline
+## Clip 39 — The punchline
 **Action:** The astronaut slowly registers the silence and the empty space around him; his grin fades, his brow furrows, he leans in slightly, confused — but still never fully turns. The image freezes on his puzzled face.
 **Dialogue:**
 - "...Hello?"
