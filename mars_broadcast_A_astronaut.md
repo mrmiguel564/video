@@ -59,7 +59,7 @@ This is the **Mars side** of the broadcast. In frame: the proud astronaut, facin
 # ACT 2 — THE CAPTURE (Clips 13–28)
 
 ## Clip 13 — The intruder appears
-**Action:** The astronaut keeps talking to the camera, oblivious. In the far background, from the left edge, a thin grey alien with large dark eyes appears — head, then shoulder, then full body — crouched and cautious, clearly holding a coiled rope in one hand and a black cloth bag in the other. It begins tiptoeing in.
+**Action:** The astronaut keeps talking to the camera, oblivious, in sharp focus in the foreground. In the deep background, at a far distance of about 20 feet behind him, a thin grey alien with large dark eyes appears from the left edge — head, then shoulder, then full body. Crouched, cautious, and visually separated by a shallow depth of field, it clearly holds a coiled rope in one hand and a black cloth bag in the other as it begins tiptoeing in.
 **Dialogue:**
 - "We'll need a name for the species, of course."
 - *(beat — misreads the worried tone as awe)*
@@ -75,9 +75,9 @@ This is the **Mars side** of the broadcast. In frame: the proud astronaut, facin
 ## Clip 17 — Closing in
 **Action:** The alien sneaks right up close behind Dave, who keeps working, completely unaware.
 **Dialogue:**
-- *(listens, beaming)*
-- "A feature! Yes — the key feature of the whole expedition!"
-- "You really get it."
+  - *(mishearing "figure" as "feature", beaming)*
+  - "A feature! Yes — the key feature of the whole expedition!"
+  - "You really get it."
 
 ## Clip 19 — The wind-up
 **Action:** The alien stands directly behind Dave, uncoils the rope and raises it, ready to throw. The astronaut holds the dish up proudly at the camera, at peak ego.
