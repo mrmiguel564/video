@@ -59,7 +59,7 @@ This is the **Mars side** of the broadcast. In frame: the proud astronaut, facin
 # ACT 2 — THE CAPTURE (Clips 13–28)
 
 ## Clip 13 — The intruder appears
-**Action:** The astronaut keeps talking to the camera, oblivious, in sharp focus in the foreground. In the deep background, at a far distance of about 20 feet behind him, a thin grey alien with large dark eyes appears from the left edge — head, then shoulder, then full body. Crouched, cautious, and visually separated by a shallow depth of field, it clearly holds a coiled rope in one hand and a black cloth bag in the other as it begins tiptoeing in.
+**Action:** The astronaut keeps talking directly into the lens, looking straight ahead at the camera with absolute focus, completely oblivious to his surroundings. In the deep background, at a far distance of about 20 feet behind him, a thin grey alien with large dark eyes appears from the left edge — head, then shoulder, then full body. Crouched and cautious, the alien begins tiptoeing in, crossing the background space directly behind the main astronaut. Far back on the right, the second astronaut (Dave) remains perfectly visible, free, and working at his crates. Both the alien and Dave remain simultaneously visible as separate characters in the deep background. The main astronaut maintains eye contact with the camera at all times.
 **Dialogue:**
 - "We'll need a name for the species, of course."
 - *(beat — misreads the worried tone as awe)*
