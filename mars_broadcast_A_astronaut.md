@@ -90,28 +90,28 @@ Dialogue:
 - "Hope? There's nothing but hope now, my friend."
 
 ## Clip 21 — The lasso
-**Action:** The alien swings the rope like a cowboy lasso and throws it, looping it over Dave by surprise. Dave startles and a silent struggle begins in the background.
+Action: [FOREGROUND - IN SHARP FOCUS]: The main astronaut reacts with delight, his face tightly framed and looking straight into the lens. [DEEP BACKGROUND - OUT OF FOCUS]: On the right, the alien rapidly wraps the rope around Dave's torso and arms. The alien ties multiple knots, securely binding Dave from chest to knees until he is completely immobilized. Dave hops and wriggles on the ground, completely tied up. [AI CONSTRAINT]: The main astronaut keeps his gaze strictly fixed on the camera. The background characters stay distinct and simultaneous.
 **Dialogue:**
 - *(listens, delighted)*
 - "Grabbing the moment! Yes — seize it!"
 - "That's the spirit, Houston!"
 
 ## Clip 23 — Tied up
-**Action:** The alien winds the rope around Dave's torso several times, pinning both his arms tightly to his sides so he is clearly being tied up, not hugged. Dave hops and wriggles, waving his trapped arms toward the camera for help; a crate tips over. The astronaut, never turning, keeps beaming.
+Action: [FOREGROUND - IN SHARP FOCUS]: The main astronaut keeps beaming warmly, holding the Petri dish and addressing the camera viewpoint directly. [DEEP BACKGROUND - OUT OF FOCUS]: On the right, the alien squats down, grips the fully tied-up Dave, and hoists him up onto its shoulder. The alien successfully lifts the bound astronaut in a fireman's carry, standing completely upright with Dave loaded on its back. [AI CONSTRAINT]: The main astronaut remains perfectly still and focused straight ahead in sharp focus without any interruption.
 **Dialogue:**
 - *(listens warmly)*
 - "Tongue-tied, I know — it's an emotional day for everyone."
 - "Look how excited Dave is."
 
 ## Clip 25 — The black bag
-**Action:** The alien pulls the black cloth bag down over Dave's head, fully covering it. Dave is now completely captured. The astronaut nods proudly at the camera.
+**Action:** [FOREGROUND - IN SHARP FOCUS]: The main astronaut nods proudly directly into the camera lens. [DEEP BACKGROUND - OUT OF FOCUS]: On the right, while still carrying Dave over its shoulder, the alien reaches with its free hand and slams the black cloth bag down over Dave's head. Dave's head is now completely covered, and his feet dangle helplessly while the alien holds him tight. [AI CONSTRAINT]: The foreground astronaut stays continuously speaking without interruption.
 **Dialogue:**
 - *(listens)*
 - "He's in the bag, exactly — the deal's as good as done!"
 - *(beat — nods, certain he's been understood)*
 
 ## Clip 27 — The grip
-**Action:** The alien holds the bound, hooded Dave firmly in place; Dave's muffled struggling continues. The astronaut keeps presenting to the camera.
+**Action:** [FOREGROUND - IN SHARP FOCUS]: The main astronaut continues presenting straight to the camera, looking directly into the viewpoint. [DEEP BACKGROUND - OUT OF FOCUS]: On the right, the alien stands firm, securely carrying the bound and hooded Dave on its shoulder, looking up at the sky as if waiting for a signal. [AI CONSTRAINT]: The main astronaut keeps his head and eyes anchored completely to the front.
 **Dialogue:**
 - "I think I'll name the species after myself. Seems fair."
 - *(beat)*
