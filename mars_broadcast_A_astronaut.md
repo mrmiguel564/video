@@ -89,8 +89,8 @@ Dialogue:
 - *(beat)*
 - "Hope? There's nothing but hope now, my friend."
 
-## Clip 21 — The lasso
-Action: [FOREGROUND - IN SHARP FOCUS]: The main astronaut reacts with delight, his face tightly framed and looking straight into the lens. [DEEP BACKGROUND - OUT OF FOCUS]: On the right, the alien rapidly wraps the rope around Dave's torso and arms. The alien ties multiple knots, securely binding Dave from chest to knees until he is completely immobilized. Dave hops and wriggles on the ground, completely tied up. [AI CONSTRAINT]: The main astronaut keeps his gaze strictly fixed on the camera. The background characters stay distinct and simultaneous.
+## Clip 21 — The lasso (The Tie-Up & Phone Call)
+**Action:** [FOREGROUND - IN SHARP FOCUS]: The main astronaut reacts with delight, centered holding his Petri dish sample. His face is tightly framed, looking straight ahead and maintaining uninterrupted eye contact with the camera. [DEEP BACKGROUND - OUT OF FOCUS]: Far behind him on the right side, the alien rapidly finishes wrapping the rope around Dave, completely immobilizing his arms and torso. The alien instantly hoists the fully tied-up Dave onto its shoulder in a secure fireman's carry. While holding Dave on its shoulder with one arm, the alien uses its free hand to pull out a small handheld futuristic smartphone and holds it up to its ear to make a call. [AI CONSTRAINT]: The main astronaut keeps his gaze strictly fixed on the camera and stays continuously speaking in sharp focus in the foreground without any interruption. The background characters stay distinct and simultaneous as separate entities. No characters morph, flicker, or disappear.
 **Dialogue:**
 - *(listens, delighted)*
 - "Grabbing the moment! Yes — seize it!"
