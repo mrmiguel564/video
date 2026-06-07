@@ -65,8 +65,8 @@ Dialogue:
 ## Clip 16 — The sneak
 **Action:** Reacts immediately to the "Seven figures" comment from the previous clip. He leans in very close to the monitor, one hand half-raised, trying to make out the grey shape. Uneasy.
 **Dialogue:**
-- *(reversing the word)*
-- "No— there's a *figure*, there's a—"
+- *(reacting to the word)
+- "No— there's a dark figure, there's a—"
 
 ## Clip 18 — Closing in
 **Action:** He half-rises out of his chair, gripping the edge of the console, urgent now, pointing at the screen.
