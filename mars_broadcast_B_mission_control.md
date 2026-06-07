@@ -23,13 +23,13 @@ His arc is the whole engine of the comedy: he starts calm and professional, slow
 **Face:** Relaxed, competent, faint professional warmth. A small confirming nod, eyebrows lifting once as the signal locks; the corner of his mouth ticks up.
 **Action:** He leans into his headset and works a dial; the monitor glow flickers, then locks sharp on his face.
 **Dialogue:**
-- *(warm, crisp, steady radio voice)* "We hear you loud and clear, Commander. Go ahead."
+- *(warm, crisp, steady radio voice)* "Loud and clear, Commander. Go ahead."
 
 ## Clip 4 — In focus
 **Face:** Easy, settled, an unworried half-smile; eyes calmly tracking the monitor.
 **Action:** He sits back, comfortable and routine, ready to receive the report.
 **Dialogue:**
-- *(relaxed, casual, leaning back)* "We've got you crystal clear. We're all watching — go on."
+- *(relaxed, casual, leaning back)* "Picture's crystal clear. The whole room's watching."
 
 ## Clip 6 — Mission intro
 **Face:** Polite smile slowly thinning into mild impatience — a tiny sideways glance, a small "get-to-the-point" lift of the brows.
@@ -85,13 +85,13 @@ His arc is the whole engine of the comedy: he starts calm and professional, slow
 **Face:** A flinch — whole face recoils, eyes squeezing then snapping wide in horror, mouth pulled into a shout.
 **Action:** He jerks back as the lasso lands on the feed, both hands flying to his headset, yelling at the screen.
 **Dialogue:**
-- *(shouting, horrified)* "NO — it's grabbing him! It's grabbing Dave!"
+- *(shouting, horrified)* "NO — it's grabbing him! It's got Dave!"
 
 ## Clip 22 — Tied up
 **Face:** Desperation breaking through — sweating under the glow, eyes pleading, brows pinched up, mouth straining.
 **Action:** He slams a palm on the console and leans bodily over it, gesturing frantically at the monitor.
 **Dialogue:**
-- *(frantic, pleading, voice cracking)* "He's being TIED UP! Do something!"
+- *(frantic, pleading, voice cracking)* "He's TIED UP! It's tying him up — DO something!"
 
 ## Clip 24 — The abduction
 **Face:** Over-enunciating with wide, pleading eyes — then a jolt of fresh horror, eyebrows flying up, mouth dropping open.
@@ -99,7 +99,7 @@ His arc is the whole engine of the comedy: he starts calm and professional, slow
 **Dialogue:**
 - *(slow, desperate, over-enunciated)* "Commander, your crewmate is being ABDUCTED!"
 - *(jolts, eyes snapping to the screen)*
-- *(fresh panic, pointing)* "There's a SHIP — it's right above him!"
+- *(horror, connecting the dots)* "It called for a ship — there's a SHIP, right above you!"
 
 ## Clip 26 — Comms cut out
 **Face:** Peak panic mid-scream — then it freezes solid: mouth still open, eyes blank with shock, all color washing out of his face under the dead-channel glare.
