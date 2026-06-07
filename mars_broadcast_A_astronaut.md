@@ -97,7 +97,7 @@ Dialogue:
 - "That's the spirit, Houston!"
 
 ## Clip 23 — Tied up & Waiting (The Phone Call Follow-up)
-**Action:** [FOREGROUND - IN SHARP FOCUS]: The main astronaut keeps beaming warmly, holding the clear Petri dish and addressing the camera viewpoint directly. [DEEP BACKGROUND - OUT OF FOCUS]: On the right, the alien stands completely upright, steadily carrying the tied-up Dave over its shoulder while keeping the smartphone pressed to its ear. The alien nods and gestures impatiently, looking straight up toward the sky. [AI CONSTRAINT]: The main astronaut remains perfectly still and focused straight ahead in sharp focus without any interruption.
+**Action:** [FOREGROUND - IN SHARP FOCUS]: The main astronaut keeps beaming warmly, holding the clear Petri dish and addressing the camera viewpoint directly with a locked forward gaze. [DEEP BACKGROUND - OUT OF FOCUS]: On the right, while Dave remains fully tied up on the ground, the alien looks down intensely at its smartphone screen, swiping its long finger across the display to check the photo it just took. The alien looks up toward the sky impatiently, waiting for its ride while slipping the phone back into its pocket. [AI CONSTRAINT]: The main astronaut remains perfectly still and focused straight ahead in sharp focus without any interruption. The background action stays visually separated by a shallow depth of field.
 **Dialogue:**
 - *(listens warmly)*
 - "Tongue-tied, I know — it's an emotional day for everyone."
