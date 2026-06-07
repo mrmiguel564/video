@@ -13,7 +13,7 @@ His arc is the whole engine of the comedy: he starts calm and professional, slow
 
 > One continuous-looking shot, completely fixed framing, locked-off close portrait of a single flight controller at a mission-control console — framed tight from the shoulders up so his face fills the frame and every expression reads clearly. No cuts and no camera moves. Same broadcast era and grain as the Mars feed: faint digital noise and light video compression. Setting: dim Houston mission-control booth; he is lit mainly by the cool flicker of a console monitor just below the frame (the Mars feed), faint glow of other instruments around him. CONTROLLER: 40s, headset with boom mic, mission polo or flight jacket; he looks down-and-forward toward his console (below the frame), occasionally up toward the viewpoint as he speaks into the mic. **The monitor screen and the Mars feed are NEVER visible in shot** — we only ever see him and the cool glow they throw up onto his face; everything he reacts to happens below the frame, off-camera. Highly expressive, readable face — eyebrows, eyes, jaw and mouth carry the whole performance.
 
-**Negative prompt:** `astronaut, spacesuit, Mars surface, outdoor desert; camera moves, cuts, scene changes; multiple speaking controllers; flat or blank expression; visible monitor or screen, footage or images playing on a screen`.
+**Negative prompt:** `astronaut, spacesuit, Mars surface, outdoor desert; camera moves, cuts, scene changes; multiple speaking controllers; flat or blank expression; visible monitor or screen, footage or images playing on a screen; explosions, fireballs, sparks, fire, smoke, debris, lens flare, blinding flashes`.
 
 ---
 
@@ -76,7 +76,7 @@ His arc is the whole engine of the comedy: he starts calm and professional, slow
 - *(urgent, voice rising and sharpening)* "Not money — a *creature!* There's a creature right behind your crewmate!"
 
 ## Clip 18 — The rope
-**Face:** Maximum alarm — eyes blown wide, jaw clenched, neck cords standing out as he yells; harsh glow flaring on his sweating face.
+**Face:** Maximum alarm — eyes blown wide, jaw clenched, neck cords standing out as he yells; the cool console glow pulsing softly on his sweating face.
 **Action:** Fully on his feet, half-lunging down toward the console below the frame, finger stabbing downward — reacting in horror to something happening on the feed (off-camera, below the frame).
 **Dialogue:**
 - *(building to a full-throated scream, hammering each word)* "Commander — LISTEN to me! It's— oh god, it's got a ROPE!"
@@ -103,7 +103,7 @@ His arc is the whole engine of the comedy: he starts calm and professional, slow
 
 ## Clip 26 — Comms cut out
 **Face:** Peak panic mid-scream — then it freezes solid: mouth still open, eyes blank with shock, all color washing out of his face under the dead-channel glare.
-**Action:** A sudden burst of light from below floods up over his face; he shoots to his feet, knocking his chair back, grabbing his headset and screaming — then the glow on his face stutters into flickering static-light and dies to a dim grey as the comms go dead. He locks rigid.
+**Action:** The glow from below surges cold and bright across his face; he shoots to his feet, knocking his chair back, grabbing his headset and screaming — then the light on his face stutters, flickers like dying static, and drops to a dim grey as the comms go dead. He locks rigid.
 **Dialogue:**
 - *(screaming, voice breaking)* "They're gone — they took— Commander, they're—"
 - *(static — then total silence)*
