@@ -106,7 +106,8 @@ Dialogue:
 ## Clip 25 — The Abduction Arrival
 **Action:** [FOREGROUND - IN SHARP FOCUS]: The main astronaut nods proudly directly into the camera lens, holding his Petri dish sample. His face is suddenly illuminated from above by a shifting, bright blue light glow. [DEEP BACKGROUND - OUT OF FOCUS]: In the sky on the right side, a dark metallic flying saucer descends instantly, flashes a blinding blue tractor beam, and vacuums up both the alien and the bound Dave in a fraction of a second. The tractor beam shuts off immediately and the saucer shoots straight up into the sky, vanishing completely into the orange haze. The background is now instantly empty. [AI CONSTRAINT]: The main astronaut stays continuously speaking in sharp focus without interruption, completely ignoring the blue flash and the ship behind him. He remains facing strictly forward.
 **Dialogue:**
-- "He's in the bag, exactly — the deal's as good as done!"
+- "As you can see, the situation here is completely under control."
+- *(beat — the blue light flashes behind him)*
 - "Anyway — that's the discovery. Questions? ...Houston?"
 
 ## Clip 27 — The Punchline
