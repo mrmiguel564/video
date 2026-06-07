@@ -73,11 +73,14 @@ This is the **Mars side** of the broadcast. In frame: the proud astronaut, facin
 - "We are talking six or seven figures here. Easy, once the funding comes in."
 
 ## Clip 17 — Closing in
-**Action:** The alien sneaks right up close behind Dave, who keeps working, completely unaware.
-**Dialogue:**
-  - *(mishearing "figure" as "feature", beaming)*
-  - "A feature! Yes — the key feature of the whole expedition!"
-  - "You really get it."
+Action: [FOREGROUND - IN SHARP FOCUS]: Based on, the main astronaut remains continuously centered from the waist up, holding the Petri dish, looking straight with a massive smile. [DEEP BACKGROUND - OUT OF FOCUS]: Far behind him on the right, the alien tackles the second astronaut ("Dave") near the supply crates. A frantic, slow-motion silent fistfight and wrestling match begins. Dave punches back, but the alien dominates the struggle, pushing Dave down onto his knees against the crates. [AI CONSTRAINT]: The main astronaut stays continuously visible and speaking in sharp focus. The alien and Dave remain separate characters fighting in the background. No elements morph.
+Dialogue:
+
+(mishearing "figure" as "feature", beaming)
+
+"A feature! Yes — the key feature of the whole expedition!"
+
+"You really get it."
 
 ## Clip 19 — The wind-up
 **Action:** The alien stands directly behind Dave, uncoils the rope and raises it, ready to throw. The astronaut holds the dish up proudly at the camera, at peak ego.
