@@ -86,59 +86,26 @@ Dialogue:
 - "NO — it's grabbing him!"
 - *(listens, horrified, disbelieving)*
 
-## Clip 24 — Tied up
-**Action:** He slams a palm on the console, leaning right over it, desperate, gesturing at the monitor.
+## Clip 24 — Tied up (The Abduction Realization)
+**Action:** He slams a palm on the console, leaning right over it, desperate and sweating under the monitor glow, gesturing frantically at the monitor.
 **Dialogue:**
 - "He's being tied up! Do something!"
 - *(listens, throwing his free hand up)*
-
-## Clip 26 — The black bag
-**Action:** He throws both hands over his head in despair as the bag goes over Dave — then, hearing the cheerful reply, he drags a hand down his face, exasperated.
-**Dialogue:**
-- "They've put a BAG over his head!"
-- *(beat — facepalm)*
-- "That is NOT what that means!"
-
-## Clip 28 — The grip
-**Action:** He leans in close to the boom mic, slow and deliberate, over-enunciating, eyes wide and pleading.
-**Dialogue:**
-- *(listens, jaw tight)*
 - "Commander, your crewmate is being ABDUCTED!"
 
----
-
-# ACT 3 — THE ABDUCTION & PUNCHLINE (Clips 30–40)
-
-## Clip 30 — The saucer
-**Action:** He shoots to his feet, knocking the chair back, and points both hands at the monitor, shouting at the top of his lungs.
+## Clip 26 — The Saucer & The Beam
+**Action:** Intense blue light floods the feed and his face; he grips his headset with both hands, shooting to his feet and knocking his chair back. He points at the monitor, shouting at the top of his lungs.
 **Dialogue:**
 - "There's a SHIP — turn around!"
-- *(beat — sees it's hopeless)*
-- "TURN AROUND!"
+- "They're floating — they're being lifted in a blue beam! TURN AROUND!"
 
-## Clip 32 — The beam
-**Action:** Blue light floods the feed and his face; he grips the headset with both hands, frantic, watching them lift off.
+## Clip 27 — Liftoff & Hollow Silence
+**Action:** The monitor glow flares violently from the spaceship's engines, washing his face in bright light, then settles back to normal. He slips the headset off one ear, going completely still. He stares blankly at the screen, listening to the astronaut brag about leaving them "stunned into silence." He does not answer. Hollow, defeated silence.
 **Dialogue:**
-- *(listens, then —)*
-- "They're floating — they're being lifted!"
-
-## Clip 34 — Floating up
-**Action:** His voice cracks; he sinks slightly, one hand pressed to his mouth, watching them rise away on the monitor.
-**Dialogue:**
-- *(listens, anguished)*
-- "We're losing him — we're losing Dave!"
-
-## Clip 36 — Liftoff
-**Action:** The monitor glow intensifies violently from the alien ship's engines, washing over his face, but the signal holds. He slips the headset off one ear, going completely still, mouth half-open as he processes the shock.
-**Dialogue:**
-- *(stunned silence)*
-
-## Clip 38 — Empty background
-**Action:** He stares blankly at the monitor — just the lone astronaut still beaming on an empty feed. He does not answer. Hollow, defeated silence; the glow pulses on his stunned face.
-**Dialogue:**
+- *(listens, jaw tight in absolute shock)*
 - *(silence — stares, says nothing)*
 
-## Clip 40 — The punchline
-**Action:** He slowly lowers the headset from his head and lets it hang, sinking back into the chair, eyes fixed on the screen with a thousand-yard stare. The image freezes on his hollow, speechless face.
+## Clip 28 — The Punchline
+**Action:** He slowly lowers the headset completely from his head and lets it hang. Sinking slowly back into his chair, he fixes his eyes on the screen with a thousand-yard stare. The image freezes on his hollow, completely speechless face.
 **Dialogue:**
 - *(freeze — silence)*
