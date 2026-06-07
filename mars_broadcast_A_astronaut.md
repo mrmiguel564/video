@@ -104,21 +104,21 @@ Dialogue:
 - "Look how excited Dave is."
 
 ## Clip 25 — The Saucer & Tractor Beam Arrival
-**Action:** [FOREGROUND - IN SHARP FOCUS]: The main astronaut nods proudly directly into the camera lens. His face is suddenly illuminated from above by a bright, flickering blue light glow. [DEEP BACKGROUND - OUT OF FOCUS]: In the sky behind him, a dark metallic flying saucer with glowing rim lights descends instantly. A wide cone of glowing blue tractor beam light shines straight down on the right side, enveloping the alien and Dave. The alien, still carrying Dave on its shoulder, begins to float slowly upward inside the blue beam. [AI CONSTRAINT]: The foreground astronaut stays continuously speaking in sharp focus without interruption, completely ignoring the blue light and the ship behind him.
+**Action:** [FOREGROUND - IN SHARP FOCUS]: The main astronaut nods proudly directly into the camera lens. His face is suddenly illuminated from above by a shifting, bright blue light glow. [DEEP BACKGROUND - OUT OF FOCUS]: In the sky on the right side, a dark metallic flying saucer with glowing rim lights descends instantly. A wide cone of glowing blue tractor beam light shines straight down, enveloping both the alien and the bound Dave. Keeping their physical distance, the alien (standing upright) and Dave (fully tied up and kneeling) begin to float slowly and vertically upward together inside the blue beam, rising off the ground toward the ship. [AI CONSTRAINT]: The main astronaut stays continuously speaking in sharp focus without interruption, completely ignoring the blue illumination and the ship behind him. The alien and Dave remain separate, non-morphing entities floating upwards.
 **Dialogue:**
 - *(listens)*
 - "He's in the bag, exactly — the deal's as good as done!"
 - *(beat — nods, certain he's been understood)*
 
 ## Clip 27 — Liftoff & Empty Background
-**Action:** [FOREGROUND - IN SHARP FOCUS]: The main astronaut continues presenting straight to the camera, looking directly into the viewpoint. [DEEP BACKGROUND - OUT OF FOCUS]: The alien and Dave rise into the saucer's underside; the tractor beam shuts off instantly, and the saucer shoots straight up into the sky, shrinking toward a tiny dot and vanishing completely. The background is now totally empty—only the crates and the habitat module remain. [AI CONSTRAINT]: The main astronaut keeps his head and eyes anchored completely to the front, unaware that the background is empty.
+**Action:** [FOREGROUND - IN SHARP FOCUS]: The main astronaut continues presenting straight to the camera, looking directly into the viewpoint. [DEEP BACKGROUND - OUT OF FOCUS]: The floating alien and the bound Dave rise completely into the saucer's underside. The tractor beam shuts off instantly, and the saucer shoots straight up into the sky, shrinking toward a tiny dot and vanishing completely into the orange haze. The background space is now totally empty—only the static crates and the habitat module remain. [AI CONSTRAINT]: The main astronaut keeps his head and eyes anchored completely to the front, completely unaware that the background is empty.
 **Dialogue:**
 - "Anyway — that's the discovery. Questions?"
 - "...Houston?"
 - "Houston, you're being awfully quiet. Stunned into silence, I imagine. I don't blame you."
 
-## Clip 28 — The Punchline
-**Action:** [FOREGROUND - IN SHARP FOCUS]: The astronaut slowly registers the heavy silence. His massive grin finally fades, his brow furrows, and he leans in slightly toward the lens, looking confused—but he still remains facing strictly forward without turning. The image freezes on his puzzled face.
+## Clip 29 — The Punchline
+**Action:** [FOREGROUND - IN SHARP FOCUS]: The astronaut slowly registers the heavy silence coming from his headset. His massive grin finally fades, his brow furrows, and he leans in slightly toward the lens, looking deeply confused—but he remains facing strictly forward toward the camera without ever turning around. The image freezes on his puzzled face.
 **Dialogue:**
 - "...Hello?"
 - "Why is everyone so quiet?"
