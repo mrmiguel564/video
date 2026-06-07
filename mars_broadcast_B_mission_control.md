@@ -85,7 +85,7 @@ His arc is the whole engine of the comedy: he starts calm and professional, slow
 **Face:** A flinch — whole face recoils, eyes squeezing then snapping wide in horror, mouth pulled into a shout.
 **Action:** He jerks back as if struck by what he just saw below the frame, both hands flying to his headset, yelling downward.
 **Dialogue:**
-- *(shouting, horrified)* "NO — it's grabbing him! It's got Dave!"
+- *(shouting, horrified)* "no! — it's grabbing him! It's got Dave!"
 
 ## Clip 22 — Tied up
 **Face:** Desperation breaking through — sweating under the glow, eyes pleading, brows pinched up, mouth straining.
