@@ -79,7 +79,7 @@ His arc is the whole engine of the comedy: he starts calm and professional, slow
 **Face:** Maximum alarm — eyes blown wide, jaw clenched, neck cords standing out as he yells; the cool console glow pulsing softly on his sweating face.
 **Action:** Fully on his feet, half-lunging down toward the console below the frame, finger stabbing downward — reacting in horror to something happening on the feed (off-camera, below the frame).
 **Dialogue:**
-- *(building to a full-throated scream, hammering each word)* "Commander — LISTEN to me! It's— oh god, it's got a ROPE!"
+- *(building to a full-throated scream, hammering each word)* "Commander — *listen* to me! It's— oh god, it's got a *rope*!"
 
 ## Clip 20 — Grabbing him
 **Face:** A flinch — whole face recoils, eyes squeezing then snapping wide in horror, mouth pulled into a shout.
@@ -91,15 +91,15 @@ His arc is the whole engine of the comedy: he starts calm and professional, slow
 **Face:** Desperation breaking through — sweating under the glow, eyes pleading, brows pinched up, mouth straining.
 **Action:** He slams a palm on the console and leans bodily over it, gesturing frantically downward at the unseen feed.
 **Dialogue:**
-- *(frantic, pleading, voice cracking)* "He's TIED UP! It's tying him up — DO something!"
+- *(frantic, pleading, voice cracking)* "He's *tied up*! It's tying him up — *do* something!"
 
 ## Clip 24 — The abduction
 **Face:** Over-enunciating with wide, pleading eyes — then a jolt of fresh horror, eyebrows flying up, mouth dropping open.
 **Action:** He leans right into the boom mic — then snaps back in fresh horror at something new appearing below the frame, his eyes shooting upward as if tracking something rising/descending off-camera.
 **Dialogue:**
-- *(slow, desperate, over-enunciated)* "Commander, your crewmate is being ABDUCTED!"
+- *(slow, desperate, over-enunciated)* "Commander, your crewmate is being *abducted*!"
 - *(jolts, eyes snapping to the screen)*
-- *(horror, connecting the dots)* "It called for a ship — there's a SHIP, right above you!"
+- *(horror, connecting the dots)* "It called for a ship — there's a *ship*, right above you!"
 
 ## Clip 26 — Comms cut out
 **Face:** Peak panic mid-scream — then it freezes solid: mouth still open, eyes blank with shock, all color washing out of his face under the dead-channel glare.

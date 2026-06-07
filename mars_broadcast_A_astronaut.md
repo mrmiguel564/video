@@ -67,7 +67,7 @@ This is the **Mars side** of the broadcast. In frame: the proud astronaut, facin
 ## Clip 17 — Closing in
 Action: [FOREGROUND - IN SHARP FOCUS]: Based on, the main astronaut remains continuously centered from the waist up, holding the Petri dish, looking straight with a massive smile. [DEEP BACKGROUND - OUT OF FOCUS]: Far behind him on the right, the alien tackles the second astronaut ("Dave") near the supply crates. A frantic, slow-motion silent fistfight and wrestling match begins. Dave punches back, but the alien dominates the struggle, pushing Dave down onto his knees against the crates. [AI CONSTRAINT]: The main astronaut stays continuously visible and speaking in sharp focus. The alien and Dave remain separate characters fighting in the background. No elements morph.
 **Dialogue:**
-- *(beaming, mishearing "creature")* "A feature? It's THE feature — the centerpiece of the whole expedition!"
+- *(beaming, mishearing "creature")* "A feature? It's *the* feature — the centerpiece of the whole expedition!"
 - *(warmly)* "...You really get it."
 
 ## Clip 19 — The wind-up
