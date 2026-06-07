@@ -95,7 +95,7 @@ His arc is the whole engine of the comedy: he starts calm and professional, slow
 
 ## Clip 24 — The abduction
 **Face:** Over-enunciating with wide, pleading eyes — then a jolt of fresh horror, eyebrows flying up, mouth dropping open.
-**Action:** He leans right into the boom mic, then snaps back as a saucer drops into frame above the crew on the feed.
+**Action:** He leans right into the boom mic, then snaps back in fresh horror at what appears on his monitor — a saucer dropping over the crew on the Mars feed (off-screen to us).
 **Dialogue:**
 - *(slow, desperate, over-enunciated)* "Commander, your crewmate is being ABDUCTED!"
 - *(jolts, eyes snapping to the screen)*
