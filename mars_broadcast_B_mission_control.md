@@ -109,7 +109,7 @@ His arc is the whole engine of the comedy: he starts calm and professional, slow
 - *(silence)*
 
 ## Clip 28 — The punchline
-**Face:** Hollow, defeated, completely speechless — a thousand-yard stare; eyes wet and unblinking, mouth slightly open with nothing coming out.
-**Action:** He slowly lowers the headset from his head and lets it hang, sinking back into his chair, eyes fixed blankly downward at the feed below the frame. The image freezes on his face.
+**Face:** Done. Completely done — jaw tight, eyes dead, a single slow blink of pure disbelief. Then a short exhale through the nose: not crying, not panicking. Just finished.
+**Action:** He yanks the headset off his head and drops it on the console without looking at it. He pushes back from his chair, stands up, and walks out of frame. The shot holds on the empty chair and the abandoned headset.
 **Dialogue:**
-- *(freeze — silence)*
+- *(under his breath, totally flat)* "I quit."
