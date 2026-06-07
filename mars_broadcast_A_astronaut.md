@@ -103,23 +103,15 @@ Dialogue:
 - "Tongue-tied, I know — it's an emotional day for everyone."
 - "Look how excited Dave is."
 
-## Clip 25 — The Saucer & Tractor Beam Arrival
-**Action:** [FOREGROUND - IN SHARP FOCUS]: The main astronaut nods proudly directly into the camera lens. His face is suddenly illuminated from above by a shifting, bright blue light glow. [DEEP BACKGROUND - OUT OF FOCUS]: In the sky on the right side, a dark metallic flying saucer with glowing rim lights descends instantly. A wide cone of glowing blue tractor beam light shines straight down, enveloping both the alien and the bound Dave. Keeping their physical distance, the alien (standing upright) and Dave (fully tied up and kneeling) begin to float slowly and vertically upward together inside the blue beam, rising off the ground toward the ship. [AI CONSTRAINT]: The main astronaut stays continuously speaking in sharp focus without interruption, completely ignoring the blue illumination and the ship behind him. The alien and Dave remain separate, non-morphing entities floating upwards.
+## Clip 25 — The Abduction Arrival
+**Action:** [FOREGROUND - IN SHARP FOCUS]: The main astronaut nods proudly directly into the camera lens, holding his Petri dish sample. His face is suddenly illuminated from above by a shifting, bright blue light glow. [DEEP BACKGROUND - OUT OF FOCUS]: In the sky on the right side, a dark metallic flying saucer descends instantly, flashes a blinding blue tractor beam, and vacuums up both the alien and the bound Dave in a fraction of a second. The tractor beam shuts off immediately and the saucer shoots straight up into the sky, vanishing completely into the orange haze. The background is now instantly empty. [AI CONSTRAINT]: The main astronaut stays continuously speaking in sharp focus without interruption, completely ignoring the blue flash and the ship behind him. He remains facing strictly forward.
 **Dialogue:**
-- *(listens)*
 - "He's in the bag, exactly — the deal's as good as done!"
-- *(beat — nods, certain he's been understood)*
+- "Anyway — that's the discovery. Questions? ...Houston?"
 
-## Clip 27 — Liftoff & Empty Background
-**Action:** [FOREGROUND - IN SHARP FOCUS]: The main astronaut continues presenting straight to the camera, looking directly into the viewpoint. [DEEP BACKGROUND - OUT OF FOCUS]: The floating alien and the bound Dave rise completely into the saucer's underside. The tractor beam shuts off instantly, and the saucer shoots straight up into the sky, shrinking toward a tiny dot and vanishing completely into the orange haze. The background space is now totally empty—only the static crates and the habitat module remain. [AI CONSTRAINT]: The main astronaut keeps his head and eyes anchored completely to the front, completely unaware that the background is empty.
+## Clip 27 — The Punchline
+**Action:** [FOREGROUND - IN SHARP FOCUS]: The astronaut slowly registers the heavy silence coming from his headset. His massive grin finally fades, his brow furrows, and he leans in slightly toward the lens, looking deeply confused—but he remains facing strictly forward toward the camera without ever turning around. The background remains totally empty. The image freezes on his puzzled face.
 **Dialogue:**
-- "Anyway — that's the discovery. Questions?"
-- "...Houston?"
-- "Houston, you're being awfully quiet. Stunned into silence, I imagine. I don't blame you."
-
-## Clip 29 — The Punchline
-**Action:** [FOREGROUND - IN SHARP FOCUS]: The astronaut slowly registers the heavy silence coming from his headset. His massive grin finally fades, his brow furrows, and he leans in slightly toward the lens, looking deeply confused—but he remains facing strictly forward toward the camera without ever turning around. The image freezes on his puzzled face.
-**Dialogue:**
-- "...Hello?"
-- "Why is everyone so quiet?"
+- "Houston, you're being awfully quiet. Stunned into silence, I imagine."
+- "...Hello? Why is everyone so quiet?"
 - *(freeze — silence)*

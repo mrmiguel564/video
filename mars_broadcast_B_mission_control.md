@@ -93,19 +93,13 @@ Dialogue:
 - *(listens, throwing his free hand up)*
 - "Commander, your crewmate is being ABDUCTED!"
 
-## Clip 26 — The Saucer & The Beam
-**Action:** Intense blue light floods the feed and his face; he grips his headset with both hands, shooting to his feet and knocking his chair back. He points at the monitor, shouting at the top of his lungs.
+## Clip 26 — The Blue Flash & Void
+**Action:** Intense blue light violently floods the feed and his face; he shoots to his feet, knocking his chair back, and grips his headset with both hands, shouting at the top of his lungs. Mid-shout, the blue light disappears instantly from his face, replaced by the normal, dim monitor glow. He stares at the screen with his mouth wide open, completely paralyzed.
 **Dialogue:**
-- "There's a SHIP — turn around!"
-- "They're floating — they're being lifted in a blue beam! TURN AROUND!"
-
-## Clip 27 — Liftoff & Hollow Silence
-**Action:** The monitor glow flares violently from the spaceship's engines, washing his face in bright light, then settles back to normal. He slips the headset off one ear, going completely still. He stares blankly at the screen, listening to the astronaut brag about leaving them "stunned into silence." He does not answer. Hollow, defeated silence.
-**Dialogue:**
-- *(listens, jaw tight in absolute shock)*
-- *(silence — stares, says nothing)*
+- "There's a SHIP — turn aro—"
+- *(abrupt silence — stares in absolute shock)*
 
 ## Clip 28 — The Punchline
-**Action:** He slowly lowers the headset completely from his head and lets it hang. Sinking slowly back into his chair, he fixes his eyes on the screen with a thousand-yard stare. The image freezes on his hollow, completely speechless face.
+**Action:** He slowly lowers the headset completely from his head and lets it hang. Sinking slowly back into his chair, he fixes his eyes on the screen with a thousand-yard stare, watching the lone astronaut ask why everyone is so quiet. The image freezes on his hollow, completely speechless face.
 **Dialogue:**
 - *(freeze — silence)*
