@@ -76,10 +76,10 @@ His arc is the whole engine of the comedy: he starts calm and professional, slow
 - *(urgent, voice rising and sharpening)* "Not money — a *creature!* There's a creature right behind your crewmate!"
 
 ## Clip 18 — The rope
-**Face:** Full alarm — taut jaw, harsh glow on a tense face, eyes flicking between the threat and the camera.
-**Action:** Fully on his feet now, pointing hard at the feed as the figure raises a coil of rope behind Dave.
+**Face:** Maximum alarm — eyes blown wide, jaw clenched, neck cords standing out as he yells; harsh glow flaring on his sweating face.
+**Action:** Fully on his feet, half-lunging down toward the console monitor below the frame, finger stabbing at the screen — reacting in horror to something he sees on the Mars feed (off-screen to us).
 **Dialogue:**
-- *(frantic, louder, clipped)* "It's got a ROPE — Commander, listen to me!"
+- *(building to a full-throated scream, hammering each word)* "Commander — LISTEN to me! It's— oh god, it's got a ROPE!"
 
 ## Clip 20 — Grabbing him
 **Face:** A flinch — whole face recoils, eyes squeezing then snapping wide in horror, mouth pulled into a shout.
