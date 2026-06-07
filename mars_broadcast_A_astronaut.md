@@ -83,7 +83,7 @@ Dialogue:
 "You really get it."
 
 ## Clip 19 — The wind-up
-**Action:** [FOREGROUND - IN SHARP FOCUS]: The main astronaut holds the dish up proudly right in front of the lens, at peak ego, maintaining uninterrupted eye contact. [DEEP BACKGROUND - OUT OF FOCUS]: On the right, the alien completely wins the fight. The alien forces the defeated Dave flat against the ground, pinning him down with one knee while pulling out a thick coil of rope. Dave is visibly overpowered, weakly raising his hands in surrender. [AI CONSTRAINT]: The main astronaut remains perfectly centered and speaking in the foreground. The background action stays visually separated by a shallow depth of field.
+**Action:** [FOREGROUND - IN SHARP FOCUS]: The main astronaut holds the dish up proudly right in front of the lens, at peak ego, maintaining uninterrupted eye contact. [DEEP BACKGROUND - OUT OF FOCUS]: On the right, The alien forces the defeated Dave flat against the ground, pinning him down with one knee while pulling out a thick coil of rope. Dave is visibly overpowered. [AI CONSTRAINT]: The main astronaut remains perfectly centered and speaking in the foreground. The background action stays visually separated by a shallow depth of field.
 **Dialogue:**
 - "History will remember two names. Mine... and also mine."
 - *(beat)*
