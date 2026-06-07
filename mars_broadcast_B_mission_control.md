@@ -102,8 +102,8 @@ His arc is the whole engine of the comedy: he starts calm and professional, slow
 - *(horror, connecting the dots)* "It called for a ship — there's a *ship*, right above you!"
 
 ## Clip 26 — Comms cut out
-**Face:** Peak panic mid-scream — then it freezes solid: mouth still open, eyes blank with shock, all color washing out of his face under the dead-channel glare.
-**Action:** The glow from below surges cold and bright across his face; he shoots to his feet, knocking his chair back, grabbing his headset and screaming — then the light on his face stutters, flickers like dying static, and drops to a dim grey as the comms go dead. He locks rigid.
+**Face:** Mid-scream — mouth wide open, eyes blown out, every muscle in his face straining — then it all stops at once: jaw still hanging, eyes going blank and empty, face draining completely flat. He stares forward, frozen.
+**Action:** He shoots to his feet, grabbing his headset and screaming into the mic — then goes completely still. He stands rigid, mouth still open, staring downward at the console below the frame.
 **Dialogue:**
 - *(screaming, voice breaking)* "They're gone — they took— Commander, they're—"
 - *(static — then total silence)*
