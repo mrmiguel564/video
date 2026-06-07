@@ -5,96 +5,111 @@ This is the **Houston side** of the broadcast: a single flight controller at his
 
 His arc is the whole engine of the comedy: he starts calm and professional, slowly realizes something is wrong on the feed, and escalates to full panic — while the astronaut (VIDEO A) cheerfully mishears every warning as praise. By the end Houston is stunned into silence.
 
+> **PERFORMANCE IS EVERYTHING.** The shot is locked and simple, so the comedy lives entirely in his **face** and in **how he delivers each line** — the set and framing barely change between clips. Direct each clip around the micro-expressions (eyebrows, eyes, jaw, mouth) and the vocal tone/pace/volume cues written in *(italics)* before each line. The big visual story is his expression sliding from calm → disbelief → panic → hollow silence.
+
 > **SYNC NOTE (important):** In the final 1→28 cut, each even Houston clip plays *right before* the next odd astronaut clip. So Houston **sets up** the word, and the astronaut **mishears it** in the clip that follows. Houston always speaks the warning *first*; the joke is the reply you hear next on the Mars side. Keep that order when editing.
 
 ## STYLE BLOCK *(paste at the top of every VIDEO B clip)*
 
-> One continuous-looking shot, completely fixed framing, locked-off portrait of a single flight controller at a mission-control console. No cuts and no camera moves. Same broadcast era and grain as the Mars feed: faint digital noise and light video compression. Setting: dim Houston mission-control booth; the controller sits centered from the chest up, lit mainly by the cool flicker of a console monitor just below the frame (the Mars feed), faint glow of other instruments around him. CONTROLLER: 40s, headset with boom mic, mission polo or flight jacket, clipboard or hand on the console; he looks down-and-forward at his monitor, occasionally up toward the viewpoint as he speaks into the mic. His expression is the story — it travels from calm professionalism to disbelief to outright panic to hollow silence.
+> One continuous-looking shot, completely fixed framing, locked-off close portrait of a single flight controller at a mission-control console — framed tight from the shoulders up so his face fills the frame and every expression reads clearly. No cuts and no camera moves. Same broadcast era and grain as the Mars feed: faint digital noise and light video compression. Setting: dim Houston mission-control booth; he is lit mainly by the cool flicker of a console monitor just below the frame (the Mars feed), faint glow of other instruments around him. CONTROLLER: 40s, headset with boom mic, mission polo or flight jacket; he looks down-and-forward at his monitor, occasionally up toward the viewpoint as he speaks into the mic. Highly expressive, readable face — eyebrows, eyes, jaw and mouth carry the whole performance.
 
-**Negative prompt:** `astronaut, spacesuit, Mars surface, outdoor desert; camera moves, cuts, scene changes; multiple speaking controllers`.
+**Negative prompt:** `astronaut, spacesuit, Mars surface, outdoor desert; camera moves, cuts, scene changes; multiple speaking controllers; flat or blank expression`.
 
 ---
 
 # ACT 1 — THE BROADCAST (Clips 2–12)
 
 ## Clip 2 — Connection
-**Action:** The controller leans into his headset and works a dial; the monitor glow flickers and then locks sharp onto the astronaut's beaming face. He gives a small, professional nod and speaks calmly into the boom mic.
+**Face:** Relaxed, competent, faint professional warmth. A small confirming nod, eyebrows lifting once as the signal locks; the corner of his mouth ticks up.
+**Action:** He leans into his headset and works a dial; the monitor glow flickers, then locks sharp on his face.
 **Dialogue:**
-- "We hear you loud and clear, Commander. Go ahead."
+- *(warm, crisp, steady radio voice)* "We hear you loud and clear, Commander. Go ahead."
 
 ## Clip 4 — In focus
-**Action:** The feed is steady now. He settles back in his chair, relaxed and routine, eyes on the monitor, ready to receive the report.
+**Face:** Easy, settled, an unworried half-smile; eyes calmly tracking the monitor.
+**Action:** He sits back, comfortable and routine, ready to receive the report.
 **Dialogue:**
-- "We've got you crystal clear. We're all watching — go on."
+- *(relaxed, casual, leaning back)* "We've got you crystal clear. We're all watching — go on."
 
 ## Clip 6 — Mission intro
-**Action:** He listens to the grand build-up with a faint polite smile, jots something on a clipboard, mildly impatient for him to get to the point.
+**Face:** Polite smile slowly thinning into mild impatience — a tiny sideways glance, a small "get-to-the-point" lift of the brows.
+**Action:** He jots something on a clipboard without looking down, half-listening to the grand build-up.
 **Dialogue:**
-- "...Go on, Commander. Don't keep us waiting."
+- *(politely, but a touch impatient, trailing off)* "...Go on, Commander. Don't keep us waiting."
 
 ## Clip 8 — The build-up
-**Action:** He leans forward a little, genuinely curious now, eyes fixed on the monitor.
+**Face:** Genuine curiosity kicking in — eyebrows raised, eyes sharpening, lips slightly parted, he leans toward the screen.
+**Action:** He leans forward over the console, attention fully caught.
 **Dialogue:**
-- "Bigger than minerals? Commander — what did you find?"
+- *(curious, quickening, hooked)* "Bigger than minerals? Commander — what did you find?"
 
 ## Clip 10 — The reveal
-**Action:** Something on the monitor makes him blink and sit bolt upright; his eyebrows shoot up, then his face cracks open into pure amazement.
+**Face:** A double-take — blink, then jaw drops and eyebrows shoot up; the disbelief cracks open into a thrilled, beaming grin.
+**Action:** He jerks bolt upright in his chair, hand rising to his headset.
 **Dialogue:**
-- "...Say that again?"
+- *(quiet, disbelieving, almost a whisper)* "...Say that again?"
 - *(beat — stunned)*
-- "That's— that's historic. The discovery of the century!"
+- *(building to a thrilled near-shout, breaking into a grin)* "That's— that's historic. The discovery of the century!"
 
 ## Clip 12 — Something moves
-**Action:** Still grinning with excitement, he suddenly catches a flicker of movement at the edge of the feed. The grin falters; he squints and tilts his head toward the monitor.
+**Face:** Mid-celebration the grin freezes, then falters — eyes flick to the corner of the monitor, brows knit, head tilts; dawning unease replaces the joy.
+**Action:** Still riding the excitement, he catches a flicker of movement at the edge of the feed and squints at it.
 **Dialogue:**
-- "Incredible, Commander, truly—"
-- *(squints at the screen)*
-- "...Wait. Is something moving behind you?"
+- *(still elated)* "Incredible, Commander, truly—"
+- *(smile dropping, squinting at the screen)*
+- *(slow, wary)* "...Wait. Is something moving behind you?"
 
 ---
 
 # ACT 2 — THE CAPTURE (Clips 14–28)
 
 ## Clip 14 — The figure
-**Action:** He leans in close to the monitor, one hand half-raised, pointing, trying to make out the grey shape creeping in behind the crew. Uneasy, insistent.
+**Face:** Brow furrowed hard, eyes narrowed and locked on the screen, mouth tight; confused, insistent concern.
+**Action:** He leans in close to the monitor, one hand half-raised and pointing, trying to make out the grey shape.
 **Dialogue:**
-- "No, Commander — *behind* you. There's a figure, there's a—"
+- *(confused, insistent, leaning in)* "No, Commander — *behind* you. There's a figure, there's a—"
 
 ## Clip 16 — The creature
-**Action:** He half-rises out of his chair, gripping the edge of the console, urgent now, jabbing a finger at the screen as the thing closes in on Dave.
+**Face:** Eyes widening, alarm taking over — brows up, mouth opening; the calm is gone.
+**Action:** He half-rises out of his chair, gripping the console edge, jabbing a finger at the screen.
 **Dialogue:**
-- "Not money — a *creature!* There's a creature right behind your crewmate!"
+- *(urgent, voice rising and sharpening)* "Not money — a *creature!* There's a creature right behind your crewmate!"
 
 ## Clip 18 — The rope
-**Action:** Fully on his feet, alarmed, the glow harsh on his tense face as the figure on the feed raises a coil of rope behind Dave.
+**Face:** Full alarm — taut jaw, harsh glow on a tense face, eyes flicking between the threat and the camera.
+**Action:** Fully on his feet now, pointing hard at the feed as the figure raises a coil of rope behind Dave.
 **Dialogue:**
-- *(pointing, frantic)*
-- "It's got a ROPE — Commander, listen to me!"
+- *(frantic, louder, clipped)* "It's got a ROPE — Commander, listen to me!"
 
 ## Clip 20 — Grabbing him
-**Action:** He flinches as the lasso lands on Dave on the feed, both hands flying to his headset, shouting at the screen.
+**Face:** A flinch — whole face recoils, eyes squeezing then snapping wide in horror, mouth pulled into a shout.
+**Action:** He jerks back as the lasso lands on the feed, both hands flying to his headset, yelling at the screen.
 **Dialogue:**
-- "NO — it's grabbing him! It's grabbing Dave!"
+- *(shouting, horrified)* "NO — it's grabbing him! It's grabbing Dave!"
 
 ## Clip 22 — Tied up
-**Action:** He slams a palm on the console, leaning right over it, desperate and sweating under the monitor glow, gesturing frantically at the screen.
+**Face:** Desperation breaking through — sweating under the glow, eyes pleading, brows pinched up, mouth straining.
+**Action:** He slams a palm on the console and leans bodily over it, gesturing frantically at the monitor.
 **Dialogue:**
-- "He's being TIED UP! Do something!"
+- *(frantic, pleading, voice cracking)* "He's being TIED UP! Do something!"
 
 ## Clip 24 — The abduction
-**Action:** He leans into the boom mic, over-enunciating, eyes wide and pleading — then jolts as a saucer drops into frame on the feed above the crew.
+**Face:** Over-enunciating with wide, pleading eyes — then a jolt of fresh horror, eyebrows flying up, mouth dropping open.
+**Action:** He leans right into the boom mic, then snaps back as a saucer drops into frame above the crew on the feed.
 **Dialogue:**
-- "Commander, your crewmate is being ABDUCTED!"
-- *(jolts at the screen)*
-- "There's a SHIP — it's right above him!"
+- *(slow, desperate, over-enunciated)* "Commander, your crewmate is being ABDUCTED!"
+- *(jolts, eyes snapping to the screen)*
+- *(fresh panic, pointing)* "There's a SHIP — it's right above him!"
 
 ## Clip 26 — Comms cut out
-**Action:** Intense light floods the feed and his face as the beam takes them; he shoots to his feet, knocking his chair back, grabbing his headset and shouting — then the monitor bursts into static and his comms go dead. He freezes, mouth open, washed pale by the dead-channel glow.
+**Face:** Peak panic mid-scream — then it freezes solid: mouth still open, eyes blank with shock, all color washing out of his face under the dead-channel glare.
+**Action:** Light floods the feed and his face as the beam takes them; he shoots to his feet, knocking his chair back, grabbing his headset and screaming — then the monitor bursts to static and the comms go dead. He locks rigid.
 **Dialogue:**
-- "They're gone — they took— Commander, they're—"
+- *(screaming, voice breaking)* "They're gone — they took— Commander, they're—"
 - *(static — then total silence)*
 
 ## Clip 28 — The punchline
-**Action:** He slowly lowers the headset from his head and lets it hang, sinking back into his chair, eyes fixed on the screen — just the lone astronaut still beaming on an empty feed — with a hollow, thousand-yard stare. The image freezes on his speechless face.
+**Face:** Hollow, defeated, completely speechless — a thousand-yard stare; eyes wet and unblinking, mouth slightly open with nothing coming out.
+**Action:** He slowly lowers the headset from his head and lets it hang, sinking back into his chair, eyes fixed on the lone astronaut still beaming on the empty feed. The image freezes on his face.
 **Dialogue:**
 - *(freeze — silence)*
